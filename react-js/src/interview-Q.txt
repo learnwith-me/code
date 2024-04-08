@@ -1,0 +1,14 @@
+You need to create two sets
+of radio buttons:
+
+The first set should exclusively
+offer selections from the games
+array,and the second set should
+enable selection of days from the
+array.Both sets must be dynamically
+generated.
+
+const games = ["Chess", "Football", "Basketball", "Tennis"];
+const days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"];
+
+lets start coding ...

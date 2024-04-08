@@ -1,0 +1,5 @@
+
+install dependency 
+
+1. npm i @reduxjs/toolkit
+2. npm install react-redux
